@@ -10,10 +10,10 @@ Il s'agit d'un développement pour une voiture intelligente.
 
 3. Veuillez implémenter les différentes classes
 
-Capteur
-CapteurPressionPneu
-CapteurNiveauHuile
-Verificateur
-Voyant
-VoyantHuile
-VoyantPressionPneu
+- Capteur
+- CapteurPressionPneu
+- CapteurNiveauHuile
+- Verificateur
+- Voyant
+- VoyantHuile
+- VoyantPressionPneu
