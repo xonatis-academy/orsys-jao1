@@ -1,6 +1,12 @@
-# Information sur le projet
+# Enonce du projet
 
-### 1. Structure de données de base et valeurs
+Nous souhaitons réaliser la partie backend d'un annuaire comprenant des enregistrements de personnes et d'entreprises. Nous avons établi l'architecture objet suivante :
+
+### 1. Architecture objet
+
+<img src="projet/diagram.png"/>
+
+### 2. Structure de données et valeurs de base
 
 ```js
 [
