@@ -1,6 +1,6 @@
 # Information sur le projet
 
-### Structure de données de base et valeurs
+### 1. Structure de données de base et valeurs
 
 ```js
 [
@@ -37,4 +37,21 @@
         name: 'Microsoft'
     }
 ];
+```
+
+### 2. Création des projets et installation des modules
+
+- En JavaScript :
+
+```
+npm init
+npm install express cors
+```
+
+- En TypeScript :
+
+```
+npm init
+npm install express @types/express cors @types/cors tsc
+tsc --init
 ```
