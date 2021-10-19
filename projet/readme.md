@@ -1,32 +1,40 @@
 # Information sur le projet
 
-### Structure de données de base
+### Structure de données de base et valeurs
 
 ```js
-{
-    name: 'Annuaire',
-    entries: [
-        {
-            id: 1,
-            firstname: 'Annie',
-            lastname: 'Versaire',
-            phone: '06 67 43 23 67',
-            status: 'tocall'
-        },
-        {
-            id: 2,
-            firstname: 'Johnatan',
-            lastname: 'Pasdetoi',
-            phone: '01 23 23 45 67',
-            status: 'negociation'
-        },
-        {
-            id: 3,
-            firstname: 'Leo',
-            lastname: 'Part',
-            phone: '09 43 23 56 78',
-            status: 'client'
-        }
-    ]
-};
+[
+    {
+        id: 1,
+        firstname: 'Sophie',
+        lastname: 'Lozophy'
+    },
+    {
+        id: 2,
+        firstname: 'Annie',
+        lastname: 'Versaire'
+    },
+    {
+        id: 3,
+        firstname: 'Paul',
+        lastname: 'Ochon'
+    }
+];
+```
+
+```js
+[
+    {
+        id: 1,
+        name: 'Google'
+    },
+    {
+        id: 2,
+        name: 'Apple'
+    },
+    {
+        id: 3,
+        name: 'Microsoft'
+    }
+];
 ```
