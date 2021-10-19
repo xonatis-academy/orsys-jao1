@@ -1,4 +1,5 @@
 function factory() {
+    let x = 'hello';
     return function() {
         console.log(x);
     }
