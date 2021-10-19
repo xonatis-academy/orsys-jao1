@@ -4,7 +4,7 @@ Nous souhaitons réaliser la partie backend d'un annuaire comprenant des enregis
 
 ### 1. Architecture objet
 
-<img src="projet/diagram.png"/>
+<img src="diagram.png"/>
 
 ### 2. Structure de données et valeurs de base
 
