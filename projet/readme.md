@@ -58,6 +58,6 @@ npm install express cors
 
 ```
 npm init
-npm install express @types/express cors @types/cors tsc
-tsc --init
+npm install express @types/express cors @types/cors typescript tsc
+./node_modules/.bin/tsc --init .
 ```
