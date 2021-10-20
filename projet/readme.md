@@ -45,7 +45,7 @@ Nous souhaitons réaliser la partie backend d'un annuaire comprenant des enregis
 ];
 ```
 
-### 2. Création des projets et installation des modules
+### 3. Création des projets et installation des modules
 
 - En JavaScript :
 
